@@ -1,1 +1,3 @@
-echo '1st file';
+<?php
+echo "1st file";
+?>
